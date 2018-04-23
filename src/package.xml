@@ -20,15 +20,6 @@
     <members>row</members>
     <members>toolbar</members>
   </types>
-  <types>
-    <name>StaticResource</name>
-    <members>exampleData2</members>
-    <members>jasmine</members>
-    <members>jasmineReporter</members>
-    <members>jasmineboot</members>
-    <members>lightningDataGridTests</members>
-    <members>lodash</members>
-    <members>testutil</members>
-  </types>
+  
   <version>39.0</version>
 </Package>
